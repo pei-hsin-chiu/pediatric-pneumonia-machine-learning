@@ -110,7 +110,7 @@ Two prediction tasks were investigated:
 - **Machine Learning Models:** Random Forest (RF), XGBoost (XGB), and Logistic Regression (LR)
 - **Class Imbalance Handling:** Class weighting and Synthetic Minority Oversampling Technique (SMOTE)
 - **Model Validation:** Five-fold stratified cross-validation and holdout test evaluation
-- **Evaluation Metrics:** AUROC, AUPRC, accuracy, sensitivity, specificity, precision, recall, and F1 score
+- **Evaluation Metrics:** AUROC, AUPRC, accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and F1 score
 - **Model Interpretability:** SHapley Additive exPlanations (SHAP)
 
 ### Published Results
